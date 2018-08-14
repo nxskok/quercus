@@ -3,6 +3,7 @@ title: "Grading assignments with Quercus"
 output: html_notebook
 ---
 
+
 ## Log in to Quercus
 
 ... and find the course you're grading assignments for. Click on Grades:
